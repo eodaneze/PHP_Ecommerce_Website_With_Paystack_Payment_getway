@@ -1,0 +1,27 @@
+<div class="col-md-4 offset-md-1 border-rounded mt-5 bg-white h-25">
+               <div class="pt-4">
+                    <h6>PRICE DETAILS</h6>
+                    <hr>
+                    <div class="row price-details">
+                        <div class="col-md-6">
+                            <h6>Price(0 Items)</h6>
+                          
+                            <h6>Delivery Charges</h6>
+                            <hr>
+                            <h6>Amount Payable</h6>
+                        </div>
+                        <div class="col-md-6">
+                            <h6><i class="fa fa-naira-sign"></i>
+                                9000
+                            </h6>
+                            <h6  style="color: #95C41F;">FREE</h6>
+                            <hr>
+                            <h6>
+                                <i class="fa fa-naira-sign"></i>
+                              9000
+                            </h6>
+                        </div>
+                    </div>
+               </div>
+             
+          </div>
